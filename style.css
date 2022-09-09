@@ -22,4 +22,5 @@
 @media (width:360px){
 	body{
 	overflow-x:hidden;}
+	background:red;
 }
