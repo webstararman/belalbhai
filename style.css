@@ -19,7 +19,6 @@
 	line-height: 45px;
 }
 @media (width:360px){
-	.fix-width {
-		width: 100% !important;
-	}
+	body{
+	overflow-x:hidden;}
 }
