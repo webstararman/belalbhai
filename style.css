@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.fix-width{
+	width: 1024px;
+	margin:auto;
+	background: green;
+
+}
+.about-content{}
+.about-content ul {
+	list-style: none;
+}
+.about-content li {
+	font-size: 20px;
+	font-family: Roboto;
+	font-weight: 400;
+	line-height: 45px;
+}
+@media (width:360px){
+	.fix-width {
+		width: 100% !important;
+	}
+}
